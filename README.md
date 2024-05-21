@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/WangHaoyuuu/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangHaoyuuu&layout=compact)](https://github.com/WangHaoyuuu/github-readme-stats)
 <!--
 **WangHaoyuuu/WangHaoyuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
