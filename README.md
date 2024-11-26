@@ -5,7 +5,8 @@
   📚 A passionate learner | 💻 Developer | 🎯 Problem Solver
   
   [<img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />](https://wanghaoyuuu-github-io.pages.dev/)
-  ![](https://profile-counter.glitch.me/WangHaoyuuu/count.svg)
+  
+  <img src="https://profile-counter.glitch.me/WangHaoyuuu/count.svg" />
 
 </div>
 
@@ -14,12 +15,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangHaoyuuu&layout=compact&theme=tokyonight"/>
 </div>
 
-### 🛠 Tech Stack
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WangHaoyuuu/WangHaoyuuu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WangHaoyuuu/WangHaoyuuu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WangHaoyuuu/WangHaoyuuu/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </div>
+
+<!--
+**WangHaoyuuu/WangHaoyuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
