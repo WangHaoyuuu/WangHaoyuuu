@@ -1,12 +1,18 @@
-# Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  Welcome to my GitHub! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
 <div align="center">
   📚 A passionate learner | 💻 Developer | 🎯 Problem Solver
-  
-  [<img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />](https://wanghaoyuuu-github-io.pages.dev/)
+
+  <div style="margin-top: 8px;">
+    <a href="https://wanghaoyuuu-github-io.pages.dev/">
+      <img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
+    </a>
+  </div>
   
   <img src="https://profile-counter.glitch.me/WangHaoyuuu/count.svg" />
-  
 </div>
 
 <div align="center">
