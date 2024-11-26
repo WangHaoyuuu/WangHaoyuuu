@@ -6,7 +6,7 @@
 <div align="center">
   📚 A passionate learner | 💻 Developer | 🎯 Problem Solver
 
-  <div style="margin-top: 8px;">
+  <div style="margin-top: 10px;">
     <a href="https://wanghaoyuuu-github-io.pages.dev/">
       <img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
     </a>
