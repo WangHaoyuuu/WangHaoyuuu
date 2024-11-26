@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/WangHaoyuuu/WangHaoyuuu/blob/output/github-contribution-grid-snake.gif"/>
 </div>
 
 <!--
