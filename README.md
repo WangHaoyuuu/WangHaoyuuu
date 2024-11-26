@@ -2,12 +2,11 @@
 
 <div align="center">
   
-  📚 A passionate learner | 💻 Developer | 🎯 Problem Solver
-  
   [<img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />](https://wanghaoyuuu-github-io.pages.dev/)
   
   <img src="https://profile-counter.glitch.me/WangHaoyuuu/count.svg" />
-
+  
+  📚 A passionate learner | 💻 Developer | 🎯 Problem Solver
 </div>
 
 <div align="center">
